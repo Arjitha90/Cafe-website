@@ -1,0 +1,1 @@
+This is a simple website for Cafe or Restaurants. We can update the cafe in the database, it will display all the details in menu with google maps. This website will be convienent to lacate your cafe in your town.
